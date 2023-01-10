@@ -2,8 +2,7 @@
 
 Haplotype reconstruction of Collaborative Cross mice genotypes was performed with [Rqtl2](https://kbroman.org/qtl2/)
 
-R_qtl2 scripts used to produce the results of contained in the manuscript "ΔF508-Cftr mutation in genetically diverse Collaborative Cross mice yields novel disease-relevant phenotypes for cystic fibrosis".
-
+R_qtl2 scripts used to produce the results of the manuscript "ΔF508-Cftr mutation in genetically diverse Collaborative Cross mice yields novel disease-relevant phenotypes for cystic fibrosis".
 
 
 Haplotype contributions from the eight founders were calculated with R/qtl2 v0.24 (Broman KW et al. 2019) in the R environment (v. 3.6.3). 
