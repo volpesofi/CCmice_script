@@ -1,6 +1,9 @@
 # CCmice scripts
 
+[![DOI](https://zenodo.org/badge/587369919.svg)](https://zenodo.org/badge/latestdoi/587369919)
+
 Haplotype reconstruction of Collaborative Cross mice genotypes was performed with [Rqtl2](https://kbroman.org/qtl2/)
+
 
 R_qtl2 scripts used to produce the results of the manuscript "ΔF508-Cftr mutation in genetically diverse Collaborative Cross mice yields novel disease-relevant phenotypes for cystic fibrosis".
 
